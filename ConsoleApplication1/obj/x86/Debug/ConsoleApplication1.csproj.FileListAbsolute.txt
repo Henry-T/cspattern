@@ -1,0 +1,5 @@
+C:\108028045\CShapePattern\CSharpPattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\108028045\CShapePattern\CSharpPattern\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\108028045\CShapePattern\CSharpPattern\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\108028045\CShapePattern\CSharpPattern\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\108028045\CShapePattern\CSharpPattern\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
