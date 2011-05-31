@@ -1,0 +1,5 @@
+C:\108028045\CShapePattern\CSharpPattern\CSharpPattern\bin\Debug\CSharpPattern.exe
+C:\108028045\CShapePattern\CSharpPattern\CSharpPattern\bin\Debug\CSharpPattern.pdb
+C:\108028045\CShapePattern\CSharpPattern\CSharpPattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\108028045\CShapePattern\CSharpPattern\CSharpPattern\obj\x86\Debug\CSharpPattern.exe
+C:\108028045\CShapePattern\CSharpPattern\CSharpPattern\obj\x86\Debug\CSharpPattern.pdb

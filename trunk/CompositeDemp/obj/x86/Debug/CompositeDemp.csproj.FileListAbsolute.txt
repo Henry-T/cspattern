@@ -1,0 +1,5 @@
+C:\108028045\CShapePattern\CSharpPattern\CompositeDemp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\108028045\CShapePattern\CSharpPattern\CompositeDemp\bin\Debug\CompositeDemp.exe
+C:\108028045\CShapePattern\CSharpPattern\CompositeDemp\bin\Debug\CompositeDemp.pdb
+C:\108028045\CShapePattern\CSharpPattern\CompositeDemp\obj\x86\Debug\CompositeDemp.exe
+C:\108028045\CShapePattern\CSharpPattern\CompositeDemp\obj\x86\Debug\CompositeDemp.pdb
